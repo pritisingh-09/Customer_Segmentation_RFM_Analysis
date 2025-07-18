@@ -64,7 +64,7 @@ RFM Analysis scores each customer and groups them into actionable segments like:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Customer_segmentation.png)
+![Dashboard Preview](Customer_Segmentation_Dashboard.png)
 
 ---
 
